@@ -1,4 +1,4 @@
-# Power-BI-Anazlytics
+# Power-BI-Analytics
 A comprehensive guide to mastering Microsoft Power BI - from basics to advanced data visualization and analytics.
 ##  Table of Contents
 
